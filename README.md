@@ -6,4 +6,6 @@ Co-founder of [Squadera](https://squadera.io), where I built LensPharm, an AI pr
 
 **Start here: [LensPharm case study](https://github.com/sonny-stack/lenspharm-case-study)**, covering what it does, the decisions behind it, and how it's measured. The product code is private because it serves a live client.
 
+Second vertical: **[LensCon case study](https://github.com/sonny-stack/lenscon-case-study)**, the same approach applied to construction (in development).
+
 [LinkedIn](https://linkedin.com/in/sonnytrikha)
